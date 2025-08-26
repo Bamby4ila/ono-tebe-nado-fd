@@ -271,6 +271,7 @@ Section lots
   gap: 25px;
   box-sizing: border-box;
   width: 100%;
+  list-style: none;
 }
 
 .card_type_film {
