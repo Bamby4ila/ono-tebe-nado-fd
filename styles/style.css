@@ -230,7 +230,6 @@ Section lots
 
 .card {
   position: relative;
-  position: relative;
   z-index: 2;
   display: flex;
   flex-direction: row;
